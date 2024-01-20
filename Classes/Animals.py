@@ -5,7 +5,6 @@ class Animals:
         self._place_living = place_living
         self.__population = population
         self._program_name = program_name
-        
 
     def __repr__(self):
         return f'{self.name} live in {self.place_living} in population of {self.__population}'
