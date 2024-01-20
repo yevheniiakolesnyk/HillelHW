@@ -1,4 +1,4 @@
-from Hw15.Animals import Animals
+from Classes.Animals import Animals
 
 
 class Mammals(Animals):

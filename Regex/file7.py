@@ -1,5 +1,5 @@
 import re
-from Hw13.Examples import urls
+from Regex.Examples import urls
 
 pattern = re.compile(r'https?://(www\.)?(\w+)(\.\w+)')
 
